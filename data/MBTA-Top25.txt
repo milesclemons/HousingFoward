@@ -1,0 +1,26 @@
+STATION	MUNICIPALITIES	DENSITY	MWRA SEWAGE/WATER	DISPOSABLE/CONTAMINATED LAND	CONSERVATION AREA	ZONING DATA	WATER COVERAGE	RAPID TRANSIT	DEVELOPABLE AREAS	SCORE	INFO SOURCE
+Quincy Center	Quincy	8	WS	0	8	Residential 2	5	2	65	0
+Bellingham Square	Chelsea	10.1	WS	0	0	MultiFamily Residential	0	2	50	0
+Braintree	Braintree	2.6	S	0	20	MultiFamily Residential	8	2	40	0
+Swampscott	Lynn; Swampscott	7.4	W	0	10	16% MultiFamily	2	0	45	0
+Montello	Brockton	3.6	N	0	9	R2 and R3 (MultiFamily)	3	0	70	0
+Brandeis-Roberts	Waltham; Weston	2	WS	3	30	Single Family Residential	20	0	40	0
+Worcester	Worcester	4	W	0	60	Multifamily Residential	2	0	20	0
+Middleborough-Lakeville	Lakeville; Middleborough	0.2	N	0	35	Single Family Residential	15	0	30	0
+Shirley	Shirley	1	N	0	20	Single Family Residential	5	0	40	0
+Grafton	Grafton; Shrewsbury	0.02	N	1	25	Residential	5	0	70	0
+Wollaston	Quincy	6.0	WS	0	0	Single Family Residential	0	1	80	0
+Needham Height	Needham	3.0	WS	0	0	Single Family Residential	0	0	65	0
+Newton Centre	Newton	3.0	WS	0	0	Single Family Residential	10	1	75	0
+Belmont	Belmont	3.0	WS	0	10	Single Family Residential	0	0	60	0
+North Wilmington	Wilmington	1.4	S	0	0	Single Family Residential	25	0	75	0
+Newtonville	Newton	5.0	WS	0	0	Multi-Family Residential	0	0	75	0
+West Newton	Newton	3.6	WS	0	0	Single Family Residential	5	0	85	0
+Stoughton	Stoughton	4.5	WS	0	0	Residential-Urban	5	0	65	0
+Waban	Newton	2.1	WS	0	0	Single Family Residential	8	1	70	0
+Newton Highlands	Newton	4.0	WS	0	0	Single Family Residential	12	1	75	0
+Beaconsfield	Brookline	4.4	WS	0	0	Single Family Residential   	0	1	85	0
+Eliot	Newton	4.1	WS	0	0	Single Family Residential   	0	1	80	0
+Canton Center	Canton	3.3	WS	0	0	Single Family and General Residential 	10	0	50	0
+Auburndale	Newton	3	WS	0	10	Single Family Residential  	5	0	65	0
+Hersey	Needham	2.9	WS	0	30	Single Family Residential 	1	0	70	0
